@@ -1,4 +1,33 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/student-team-2016.jpg
+  cta_label: "<i class='fa fa-thumbs-o-up'></i> Support Us"
+  cta_url: "/donate/"
+  caption: "include all"
+excerpt: 'Including Everyone in the Community. <br /><small><a href="/supporters/">Our Supporters</a></small>'
+feature_row:
+  - image_path: /assets/images/lock-3.jpg
+    alt: "Lock 3 Inclusion"
+    title: "Lock 3 Inclusion"
+    excerpt: "Partnering with the City of Akron, and Civil engineers to expand inclusive features at Lock 3 downtown."
+    url: "/lock-3/"
+
+  - image_path: /assets/images/new-leg.jpg
+    alt: "Custom Prosthetic Leg Fashioned for Growing Youth"
+    title: "Custom Prosthetic Leg Fashioned for Growing Youth"
+    excerpt: "Sprouting fast like a beanstalk, community youth was outgrowing her prosthetic leg, Inclusioneers help her out until she can get new leg"
+    url: "/new-leg/"
+
+  - image_path: /assets/images/dual-wheelchair-1.jpg
+    alt: "Dual Wheelchair Helps One Parent Transport Two Children"
+    title: "Dual Wheelchair Helps One Parent Transport Two Children"
+    excerpt: "Stress relief comes in many forms. This project helped balance the load when transporting two children by only one parent."
+    url: "/dual-wheelchair/"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

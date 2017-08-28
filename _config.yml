@@ -8,12 +8,13 @@
 # Site Settings
 theme                    : minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "Site Title"
+logo                     : "/assets/images/site-logo.png" # path of logo image, e.g. "/assets/images/site-logo.jpg"
+title                    : "Inclusioneers"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Inclusioneers"
+description              : "Building an inclusion friendly community."
+url                      : "http://inclusioneers.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -58,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "Inclusioneers"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -78,19 +79,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Inclusioneers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Fostering inclusion with community leaders"
+  location         : "Akron, Ohio"
+  email            : "hello@inclusioneers.org"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Inclusioneers"
   foursquare       :
-  github           :
+  github           : "inclusioneers"
   gitlab           :
   google_plus      :
   keybase          :
@@ -116,6 +117,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - bin
   - vendor
   - .asset-cache
   - .bundle
