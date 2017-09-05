@@ -14,12 +14,12 @@ feature_row:
     title: "Bridgestone"
     excerpt: "Bridgestone gives grant for Inclusioneers' Lock 3 Hub Project"
     url: "/donor-bridgestone/"
-  - image_path: /assets/images/beneficial-building-services.png
+  - image_path: /assets/images/beneficial-building-services-1.png
     alt: "Beneficial Building Services"
     title: "Beneficial Building Services"
     excerpt: "Beneficial Building Services supports Inclusioneers"
     url: "/donor-beneficial-building-services/"
-  - image_path: /assets/images/todd-associates.png
+  - image_path: /assets/images/todd-associates-1.jpg
     alt: "Todd Associates"
     title: "Todd Associates"
     excerpt: "Todd Associates supports Inclusioneers"

@@ -3,7 +3,7 @@ layout: splash
 permalink: /donor-beneficial-building-services/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/beneficial-building-services.png
+  overlay_image: /assets/images/beneficial-building-services-1.png
   cta_label: "<i class='fa fa-thumbs-o-up'></i> Support Us"
   cta_url: "/donate/"
   caption: "include all"
