@@ -24,6 +24,11 @@ feature_row:
     title: "Todd Associates"
     excerpt: "Todd Associates supports Inclusioneers"
     url: "/donor-todd-associates/"
+  - image_path: /assets/images/innovation-garage.png
+    alt: "Innovation Garage"
+    title: "Innovation Garage"
+    excerpt: "Innovation Garage supports Inclusioneers"
+    url: "/donor-innovation-garage/"
 ---
 
 {% include feature_row id="intro" type="center" %}
